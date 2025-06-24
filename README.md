@@ -14,7 +14,6 @@
 - Smart Contract SDK for eBPF VM: [l1x-sdk](https://github.com/e-uleyskiy/l1x-sdk)
 - Smart Contract compiler: [cargo-l1x ](https://github.com/e-uleyskiy/cargo-l1x)
 - A translator from WebAssembly to LLVM IR: [l1x-wasm-llvmir](https://github.com/e-uleyskiy/l1x-wasm-llvmir) 
-- 
 <!--
 **e-uleyskiy/e-uleyskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
