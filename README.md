@@ -6,7 +6,7 @@
 
 #### Near Protocol
 - Delegated Transaction feature:  [NEP-366](https://github.com/near/NEPs/blob/master/neps/nep-0366.md), [Pull Request](https://github.com/near/nearcore/pull/7497)
-- USN Stable Coin: https://github.com/e-uleyskiy/usn
+- USN Stable Coin: [USN](https://github.com/e-uleyskiy/usn)
 
 #### LayerOneX
 - Consensus/Execution layers: [l1x-core](https://github.com/e-uleyskiy/l1x-core)
