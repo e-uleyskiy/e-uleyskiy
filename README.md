@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 👨‍💻 Security Software Engineer with 13 years of experience specializing in system programming, core components, and low-level architecture. My work focuses on building secure, high-performance systems, with a deep interest in Trusted Execution Environments (TEE), virtual machines, and blockchain protocols. Passionate about designing foundational technologies that prioritize security and performance from the ground up.
 
