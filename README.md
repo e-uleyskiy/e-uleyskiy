@@ -16,6 +16,7 @@
 - A translator from WebAssembly to LLVM IR: [l1x-wasm-llvmir](https://github.com/e-uleyskiy/l1x-wasm-llvmir) *(originally developed rapidly within 2 weeks as PoC but moved to production because it worked well)*
 
 
-### A part of my work open-sourced by Samsung Electronics
+### Defense-in-Depth Security Projects
 
+#### Samsung Electronics
 - Task Authenticity (Android/Linux Kernel): [kernel/security/samsung](https://github.com/e-uleyskiy/SM-S901B-Kernel/tree/main/SM-S901B_15_Opensource/Kernel/security/samsung)
