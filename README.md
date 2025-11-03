@@ -1,6 +1,6 @@
 ## About Me
 
-👨‍💻 Security Software Engineer with 13 years of experience specializing in system programming, core components, and low-level architecture. My work focuses on building secure, high-performance systems, with a deep interest in Trusted Execution Environments (TEE), virtual machines, and blockchain protocols. Passionate about designing foundational technologies that prioritize security and performance from the ground up.
+👨‍💻 Security Software Engineer with 13 years of experience specializing in system programming, core components, and low-level architecture. My work focuses on building secure, high-performance systems, with a deep interest in Trusted Execution Environments (TEE), virtual machines, Linux Kernel, and blockchain protocols. Passionate about designing foundational technologies that prioritize security and performance from the ground up.
 
 ### Web3 Projects Primarily Built or Led by Me
 
@@ -19,4 +19,6 @@
 ### Defense-in-Depth Security Projects
 
 #### Samsung Electronics
-- Task Authenticity (Android/Linux Kernel): [kernel/security/samsung](https://github.com/e-uleyskiy/SM-S901B-Kernel/tree/main/SM-S901B_15_Opensource/Kernel/security/samsung)
+- Task Authenticity (Android/Linux Kernel): 
+  - [SM-G980F/security/samsung](https://github.com/e-uleyskiy/SM-G980F-Kernel/tree/main/Kernel/security/samsung), [SM-S901B/kernel/security/samsung](https://github.com/e-uleyskiy/SM-S901B-Kernel/tree/main/SM-S901B_15_Opensource/Kernel/security/samsung)
+  - [SM-G980F/five_tee_driver](https://github.com/e-uleyskiy/SM-G980F-Kernel/tree/main/Kernel/drivers/security/samsung/five_tee_driver)
